@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Memory" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorSecondaryVariant">@color/color_gray</item>
+    </style>
+    <style name="Theme.Memory" parent="Base.Theme.Memory" />
+</resources>
