@@ -19,7 +19,7 @@ miscellaneous:
    - Hard [Grid: 7x4]
 2. RecyclerView for dynamic view measurement for any layout.
 3. Firebase storage for storing image urls from user's phone. And,
-4. Firestore database for play custom game with the saved image urls.
+4. Firestore database to play custom game with the saved image urls.
 
 <p float="middle">
     <img width="250px" src='https://github.com/user-attachments/assets/3efb02dc-c4c7-4c57-8b1a-1e8d470fb9f9' />
