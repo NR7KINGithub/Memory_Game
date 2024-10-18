@@ -8,8 +8,8 @@ An open-source Flip'n Find! memory board game:
 3. Users can also download memory boards made by other players across the globe by entering the said game name.
 
 <p float="middle">
-    <img width="250px" src='![animals](https://github.com/user-attachments/assets/02c181c5-b54d-45a6-b0f2-41223a3095f5)' />
-    <img width="250px" src='![animals1](https://github.com/user-attachments/assets/cbc366ad-bcb5-41b3-8602-3bb81c170a2b)' />
+    <img width="250px" src='https://github.com/user-attachments/assets/02c181c5-b54d-45a6-b0f2-41223a3095f5' />
+    <img width="250px" src='https://github.com/user-attachments/assets/cbc366ad-bcb5-41b3-8602-3bb81c170a2b' />
 </p>
 
 Open source libraries used:
