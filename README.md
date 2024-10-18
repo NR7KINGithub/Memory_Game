@@ -27,5 +27,5 @@ miscellaneous:
 </p>
 
 Open source libraries used:
-=> Picasso: https://github.com/square/picasso
-=> Confetti: https://github.com/jinatonic/confetti
+- Picasso: https://github.com/square/picasso
+- Confetti: https://github.com/jinatonic/confetti
